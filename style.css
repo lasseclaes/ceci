@@ -105,4 +105,5 @@ button:active {
 
 .logo-brand {
   left: 50%;
+  transform: translate(-50%, 40%);
 }
